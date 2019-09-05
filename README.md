@@ -20,3 +20,5 @@ $ cd Firmware
 $ bash firmware_update.sh
 
 Run the commands in sequence.
+
+[![photo-2019-09-05-10-14-14.jpg](https://i.postimg.cc/1t29cxRt/photo-2019-09-05-10-14-14.jpg)](https://postimg.cc/zbwZ8cgZ)
